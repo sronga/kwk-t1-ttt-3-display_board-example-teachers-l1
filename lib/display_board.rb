@@ -5,3 +5,5 @@ def display_board_method
   puts "-----------"
   puts "   |   |   "
 end
+
+display_board_method
