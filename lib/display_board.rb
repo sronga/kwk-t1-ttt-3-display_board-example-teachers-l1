@@ -1,4 +1,4 @@
-def display_board_method
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
@@ -6,4 +6,4 @@ def display_board_method
   puts "   |   |   "
 end
 
-display_board_method
+display_board
